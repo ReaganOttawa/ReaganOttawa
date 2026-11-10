@@ -66,3 +66,4 @@ Expected Graduation: 2027
 
 - GitHub: [@ReaganOttawa](https://github.com/ReaganOttawa)
 - Email: reaganottawa5@gmail.com
+- Website: https://blarq-technology.netlify.app
